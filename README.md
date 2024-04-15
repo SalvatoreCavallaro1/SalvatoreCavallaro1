@@ -16,7 +16,7 @@
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react&perline=9)](https://skillicons.dev)
 
 ### Backend
 
