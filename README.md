@@ -6,6 +6,27 @@
 - 👨‍💻 All of my projects are available <a href="https://github.com/SalvatoreCavallaro1?tab=repositories">Here!</a>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/salvatore-cavallaro-6b43801b8/?locale=en_US" target="blank">LinkedIn</a>
 
+<details open>
+<summary>
+  <h2>🛠️&nbsp;Languages&nbsp;and&nbsp;Tools</h2>
+ </summary>
+ 
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=c,java,javascript,python&perline=9)](https://skillicons.dev)
+
+### Frontend
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,&perline=9)](https://skillicons.dev)
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,express,mysql,mongodb,nodejs,sqlite,postgres&perline=9)](https://skillicons.dev)
+
+### Software and Tools
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,postman,figma,git,github,md,latex,gradle,docker&perline=9)](https://skillicons.dev)
+
+</details>
 
 
 <!--
