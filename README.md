@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## 👨🏻‍💻&nbsp; About Me
+
+- 👨‍🎓 I have a Bachelor Degree in Computer Engineering at Unict and now I'm a MSc student in Computer Engineering at Politecnico di Torino.
+- 👨‍💻 All of my projects are available <a href="https://github.com/SalvatoreCavallaro1?tab=repositories">Here!</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/salvatore-cavallaro-6b43801b8/?locale=en_US" target="blank">LinkedIn</a>
+
+
+
 <!--
 **SalvatoreCavallaro1/SalvatoreCavallaro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
