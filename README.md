@@ -12,7 +12,7 @@
  </summary>
  
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,c++,javascript,python&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,python&perline=9)](https://skillicons.dev)
 
 ### Frontend
 
