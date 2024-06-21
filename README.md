@@ -4,7 +4,7 @@
 
 - 👨‍🎓 I have a Bachelor Degree in Computer Engineering at Unict and now I'm a MSc student in Computer Engineering at Politecnico di Torino.
 - 👨‍💻 All of my projects are available <a href="https://github.com/SalvatoreCavallaro1?tab=repositories">Here!</a>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/salvatore-cavallaro-6b43801b8/?locale=en_US" target="blank">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/salvatore-cavallaro-6b43801b8/?locale=en_US" target="blank">LinkedIn</a> , <a href="https://www.salvatorecavallaro.it/" target="blank">Personal Website</a>
 
 <details open>
 <summary>
