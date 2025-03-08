@@ -24,7 +24,7 @@
 
 ### Software and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,postman,figma,codepen,git,github,md,latex,gradle,vite,docker&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,postman,figma,codepen,git,github,gitlab,md,latex,gradle,vite,docker&perline=9)](https://skillicons.dev)
 
 </details>
 
