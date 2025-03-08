@@ -29,11 +29,14 @@
 </details>
 
 <details>
-  ##📊 GitHub Statistics</h2>
 
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalvatoreCavallaro1&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<summary>
+  <h2>📊 GitHub Statistics</h2>
+ </summary>
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SalvatoreCavallaro1&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreCavallaro1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SalvatoreCavallaro1&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
  
  </details>
 
