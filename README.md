@@ -12,7 +12,7 @@
  </summary>
  
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,javascript,typescript,python,kotlin&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python,kotlin&perline=9)](https://skillicons.dev)
 
 ### Frontend
 
@@ -20,11 +20,11 @@
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=firebase,express,mysql,flask,mongodb,nodejs,sqlite,postgres&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,express,mysql,flask,mongodb,nodejs,spring,graphql,apollo,sqlite,postgres&perline=9)](https://skillicons.dev)
 
 ### Software and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,postman,figma,codepen,git,github,gitlab,md,latex,gradle,vite,docker&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,pycharm,webstorm,postman,figma,codepen,git,github,gitlab,md,latex,gradle,vite,npm,yarn,docker&perline=9)](https://skillicons.dev)
 
 </details>
 
